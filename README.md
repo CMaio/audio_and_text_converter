@@ -10,3 +10,13 @@ For this project are being used different libraries
 |---------|-------------------------------------------|
 | PyPDF2  | Library used to be able to read pdf files |
 | pyttsx3 | Library used to translate text to voice   |
+
+
+For coding review I am using different libraries
+
+| Name    | Description                                       |
+|---------|---------------------------------------------------|
+| Pylint  | Library used to check how good is the actual code |
+
+
+
